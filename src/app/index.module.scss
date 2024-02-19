@@ -1,0 +1,7 @@
+.nav {
+  @apply bg-black text-white flex justify-between px-60 py-5 items-center sticky top-0 shadow-xl backdrop-blur-xl;
+}
+
+.mainContainer {
+  @apply flex flex-col items-center h-full bg-[#26272b] text-white;
+}
