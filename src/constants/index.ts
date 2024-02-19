@@ -1,1 +1,1 @@
-export const navs = ["博客", "图库", "工具", "bot", "demo", "简历"];
+export const navs = ["1", "2", "工具", "bot", "demo"];
